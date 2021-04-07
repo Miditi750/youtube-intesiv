@@ -2,7 +2,7 @@
 выполнил Коваль Даниил
 
 ## Используемые технологии
--HTML
--CSS
--Normalize.css
--SVG Sprite
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprite
